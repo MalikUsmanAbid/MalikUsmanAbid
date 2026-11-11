@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I’m Usman 👋</h1>
 <p align="center">Developer working with HTML, CSS and JavaScript.<br/>Building useful web experiences and exploring desktop and Android applications.</p>
 
-<p align="center"><a href="https://developer-folio-nov04-ab.glovedlark8.chatgpt.site">Portfolio</a> · <a href="https://github.com/MalikUsmanAbid?tab=repositories">Explore my repositories</a></p>
+<p align="center"><a href="https://malikusmandev.vercel.app">Portfolio</a> · <a href="https://github.com/MalikUsmanAbid?tab=repositories">Explore my repositories</a></p>
 
 ## Selected work
 
@@ -30,6 +30,6 @@ I care about thoughtful interfaces, clear documentation and small details that m
 - [WhatsApp: +92 315 7543808](https://wa.me/923157543808)
 - [Facebook page](https://www.facebook.com/profile.php?id=61594398140960)
 - [GitHub projects](https://github.com/MalikUsmanAbid?tab=repositories)
-- [Personal portfolio](https://developer-folio-nov04-ab.glovedlark8.chatgpt.site) — currently requires ChatGPT sign-in.
+- [Personal portfolio](https://malikusmandev.vercel.app)
 
 <sub>Build · Solve · Improve</sub>
