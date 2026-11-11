@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/usman-dev-logo.png" alt="Usman Dev — Full-Stack Developer" width="200" /></p>
+
 <p align="center"><img src="assets/usman-dev-banner.svg" alt="Usman Dev — Build. Solve. Improve." width="100%" /></p>
 
 <h1 align="center">Hi, I’m Usman 👋</h1>
@@ -24,6 +26,9 @@ I care about thoughtful interfaces, clear documentation and small details that m
 
 ## Find me
 
+- [Email](mailto:usmandev234@gmail.com)
+- [WhatsApp: +92 315 7543808](https://wa.me/923157543808)
+- [Facebook page](https://www.facebook.com/profile.php?id=61594398140960)
 - [GitHub projects](https://github.com/MalikUsmanAbid?tab=repositories)
 - [Personal portfolio](https://developer-folio-nov04-ab.glovedlark8.chatgpt.site) — currently requires ChatGPT sign-in.
 
