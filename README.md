@@ -1,35 +1,38 @@
-<p align="center"><img src="assets/usman-dev-logo.png" alt="Usman Dev — Full-Stack Developer" width="200" /></p>
-
 <p align="center"><img src="assets/usman-dev-banner.svg" alt="Usman Dev — Build. Solve. Improve." width="100%" /></p>
 
-<h1 align="center">Hi, I’m Usman 👋</h1>
-<p align="center">Developer working with HTML, CSS and JavaScript.<br/>Building useful web experiences and exploring desktop and Android applications.</p>
+<h1 align="center">Usman Abid · Usman Dev</h1>
+<p align="center"><strong>Web development · Business software · AI-powered tools</strong><br />Based in Pakistan. Building practical tools for real business workflows.</p>
 
-<p align="center"><a href="https://malikusmandev.vercel.app">Portfolio</a> · <a href="https://github.com/MalikUsmanAbid?tab=repositories">Explore my repositories</a></p>
+<p align="center"><a href="https://malikusmandev.vercel.app"><strong>View portfolio</strong></a> · <a href="mailto:usmandev234@gmail.com">Email me</a> · <a href="https://wa.me/923157543808">Discuss a project</a></p>
 
-## Selected work
+## About me
 
-| Project | What it explores | Core technologies |
+I build websites and explore desktop and Android applications, with a focus on clear interfaces and useful everyday workflows. My projects span online stores, business websites, personal AI assistance and market-rate tools.
+
+My foundations are **HTML, CSS and JavaScript**. My repositories also include work with React, TypeScript, Python, Firebase, Supabase and Kotlin.
+
+## Selected projects
+
+| Project | Purpose | Built with |
 | --- | --- | --- |
-| [Malik Oil Store](https://github.com/MalikUsmanAbid/malik-oil-store) | Storefront, server-verified checkout and staff operations | React, TypeScript, Firebase, Vercel |
-| [SKV Construction](https://github.com/MalikUsmanAbid/SKV) | Construction website, shared content and quote requests | React, Vite, Supabase, Vercel |
-| [CAM](https://github.com/MalikUsmanAbid/CAM) | Windows personal assistant with model choice and approval-gated project work | React, FastAPI, SQLite, Tauri |
-| [Malik Oil](https://github.com/MalikUsmanAbid/Malik-Oil) | Android oilseed market workspace, history, research and local reports | Kotlin, Jetpack Compose, Material 3 |
+| [Malik Oil Store](https://github.com/MalikUsmanAbid/malik-oil-store) | Storefront with server-verified checkout, inventory and staff operations | React · TypeScript · Firebase · Vercel |
+| [SKV Construction](https://github.com/MalikUsmanAbid/SKV) | Business website with content administration and quote requests | React · Vite · Supabase |
+| [CAM](https://github.com/MalikUsmanAbid/CAM) | Windows personal assistant with project workspaces and controlled execution | React · FastAPI · SQLite · Tauri |
+| [Malik Oil Android](https://github.com/MalikUsmanAbid/Malik-Oil) | Oilseed market workspace for rate review, price history and reports | Kotlin · Jetpack Compose |
+| [Developer Portfolio](https://github.com/MalikUsmanAbid/usman-dev-portfolio) | Personal website with project galleries and a browser-based content editor | HTML · CSS · JavaScript |
 
-Each project has a visual overview and its own setup instructions. CAM is a development preview; Android/device, cloud and live-service capabilities retain the verification boundaries documented in their repositories.
+**Project status:** CAM is a development preview. Android device acceptance and live integrations remain subject to setup and verification. Each repository documents its own requirements and limitations.
 
-## My foundations
+## What I work on
 
-**HTML · CSS · JavaScript**
+- Responsive business websites and personal portfolios.
+- Storefronts, dashboards and practical business workflows.
+- AI-assisted applications and automation prototypes.
 
-I care about thoughtful interfaces, clear documentation and small details that make software easier to use. This profile brings together my current work across web, desktop and mobile.
+## Let's build something useful
 
-## Find me
+Have a website or software project in mind? Share what you need, your timeline and your budget.
 
-- [Email](mailto:usmandev234@gmail.com)
-- [WhatsApp: +92 315 7543808](https://wa.me/923157543808)
-- [Facebook page](https://www.facebook.com/profile.php?id=61594398140960)
-- [GitHub projects](https://github.com/MalikUsmanAbid?tab=repositories)
-- [Personal portfolio](https://malikusmandev.vercel.app)
+**[Email](mailto:usmandev234@gmail.com) · [WhatsApp](https://wa.me/923157543808) · [Portfolio](https://malikusmandev.vercel.app) · [Facebook](https://www.facebook.com/profile.php?id=61594398140960)**
 
 <sub>Build · Solve · Improve</sub>
